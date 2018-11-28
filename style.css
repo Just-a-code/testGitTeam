@@ -5,3 +5,7 @@ h1 {
     text-transform: uppercase;
     columns: #fff;
 }
+h1 { 
+    font-size: 40px;
+    color: #fff;
+}
